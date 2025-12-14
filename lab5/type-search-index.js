@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI306.Shuprovych.Lab6","l":"Driver"},{"p":"KI306.Shuprovych.Lab6","l":"GenericSet"},{"p":"KI306.Shuprovych.Lab6","l":"ItemA"},{"p":"KI306.Shuprovych.Lab6","l":"ItemB"}];updateSearchResults();

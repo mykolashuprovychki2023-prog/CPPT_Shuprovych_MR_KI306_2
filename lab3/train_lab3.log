@@ -1,0 +1,350 @@
+--- Logger opened: 2025-11-02 21:25:39
+2025-11-02 21:25:39 - [Train Elektrichka-101] Train created (abstract): Elektrichka-101
+2025-11-02 21:25:39 - [Train Elektrichka-101] ElectricTrain created: Elektrichka-101, voltage=25000V
+2025-11-02 21:25:39 - [Train Elektrichka-101] Pantograph raised.
+2025-11-02 21:25:39 - [Train Elektrichka-101] Total seats calculated: 24
+2025-11-02 21:25:39 - [Train Elektrichka-101] Available seats: 24
+2025-11-02 21:25:39 - [Train Elektrichka-101] --- Manifest for Elektrichka-101 ---
+Type: Electric
+Route: Kyiv -> Brovary
+Engine: EL-Motor (power: 3200, year: 2018)
+Conductor: Petro Shevchenko (license: E-2025)
+Carriage C1: type=PASSENGER, seats=12, free=12
+  Seat 1: free
+  Seat 2: free
+  Seat 3: free
+  Seat 4: free
+  Seat 5: free
+  Seat 6: free
+  Seat 7: free
+  Seat 8: free
+  Seat 9: free
+  Seat 10: free
+  Seat 11: free
+  Seat 12: free
+
+Carriage C2: type=PASSENGER, seats=12, free=12
+  Seat 1: free
+  Seat 2: free
+  Seat 3: free
+  Seat 4: free
+  Seat 5: free
+  Seat 6: free
+  Seat 7: free
+  Seat 8: free
+  Seat 9: free
+  Seat 10: free
+  Seat 11: free
+  Seat 12: free
+
+Total seats: 24
+Available seats: 24
+
+2025-11-02 21:25:39 - [Train Elektrichka-101] Searched for seat 1 in C1: found
+2025-11-02 21:25:39 - [Train Elektrichka-101] Reserve seat 1 in C1 for Oksana: true
+2025-11-02 21:25:39 - [Train Elektrichka-101] Journey started: Kyiv -> Brovary
+2025-11-02 21:25:39 - [Train Elektrichka-101] Moving from Kyiv to Vydubychi
+2025-11-02 21:25:39 - [Train Elektrichka-101] Journey stopped at: Vydubychi
+2025-11-02 21:25:39 - [Train Elektrichka-101] Pantograph lowered.
+2025-11-02 21:25:39 - [Train Elektrichka-101] Train shutdown: Elektrichka-101
+--- Logger closed: 2025-11-02 21:25:39
+--- Logger opened: 2025-11-02 21:30:13
+2025-11-02 21:30:13 - [Train Elektrichka-101] Train created (abstract): Elektrichka-101
+2025-11-02 21:30:13 - [Train Elektrichka-101] ElectricTrain created: Elektrichka-101, voltage=25000V
+2025-11-02 21:30:13 - [Train Elektrichka-101] Pantograph raised.
+2025-11-02 21:30:13 - [Train Elektrichka-101] Total seats calculated: 24
+2025-11-02 21:30:13 - [Train Elektrichka-101] Available seats: 24
+2025-11-02 21:30:13 - [Train Elektrichka-101] --- Manifest for Elektrichka-101 ---
+Type: Electric
+Route: Kyiv -> Brovary
+Engine: EL-Motor (power: 3200, year: 2018)
+Conductor: Petro Shevchenko (license: E-2025)
+Carriage C1: type=PASSENGER, seats=12, free=12
+  Seat 1: free
+  Seat 2: free
+  Seat 3: free
+  Seat 4: free
+  Seat 5: free
+  Seat 6: free
+  Seat 7: free
+  Seat 8: free
+  Seat 9: free
+  Seat 10: free
+  Seat 11: free
+  Seat 12: free
+
+Carriage C2: type=PASSENGER, seats=12, free=12
+  Seat 1: free
+  Seat 2: free
+  Seat 3: free
+  Seat 4: free
+  Seat 5: free
+  Seat 6: free
+  Seat 7: free
+  Seat 8: free
+  Seat 9: free
+  Seat 10: free
+  Seat 11: free
+  Seat 12: free
+
+Total seats: 24
+Available seats: 24
+
+2025-11-02 21:30:13 - [Train Elektrichka-101] Searched for seat 1 in C1: found
+2025-11-02 21:30:13 - [Train Elektrichka-101] Reserve seat 1 in C1 for Oksana: true
+2025-11-02 21:30:13 - [Train Elektrichka-101] Journey started: Kyiv -> Brovary
+2025-11-02 21:30:13 - [Train Elektrichka-101] Moving from Kyiv to Vydubychi
+2025-11-02 21:30:13 - [Train Elektrichka-101] Journey stopped at: Vydubychi
+2025-11-02 21:30:13 - [Train Elektrichka-101] Pantograph lowered.
+2025-11-02 21:30:13 - [Train Elektrichka-101] Train shutdown: Elektrichka-101
+--- Logger closed: 2025-11-02 21:30:13
+--- Logger opened: 2025-11-02 21:37:58
+2025-11-02 21:37:58 - [Train Elektrichka-101] Train created (abstract): Elektrichka-101
+2025-11-02 21:37:58 - [Train Elektrichka-101] ElectricTrain created: Elektrichka-101, voltage=25000V
+2025-11-02 21:37:58 - [Train Elektrichka-101] Pantograph raised.
+2025-11-02 21:37:58 - [Train Elektrichka-101] Total seats calculated: 24
+2025-11-02 21:37:58 - [Train Elektrichka-101] Available seats: 24
+2025-11-02 21:37:58 - [Train Elektrichka-101] --- Manifest for Elektrichka-101 ---
+Type: Electric
+Route: Kyiv -> Brovary
+Engine: EL-Motor (power: 3200, year: 2018)
+Conductor: Petro Shevchenko (license: E-2025)
+Carriage C1: type=PASSENGER, seats=12, free=12
+  Seat 1: free
+  Seat 2: free
+  Seat 3: free
+  Seat 4: free
+  Seat 5: free
+  Seat 6: free
+  Seat 7: free
+  Seat 8: free
+  Seat 9: free
+  Seat 10: free
+  Seat 11: free
+  Seat 12: free
+
+Carriage C2: type=PASSENGER, seats=12, free=12
+  Seat 1: free
+  Seat 2: free
+  Seat 3: free
+  Seat 4: free
+  Seat 5: free
+  Seat 6: free
+  Seat 7: free
+  Seat 8: free
+  Seat 9: free
+  Seat 10: free
+  Seat 11: free
+  Seat 12: free
+
+Total seats: 24
+Available seats: 24
+
+2025-11-02 21:37:58 - [Train Elektrichka-101] Searched for seat 1 in C1: found
+2025-11-02 21:37:58 - [Train Elektrichka-101] Reserve seat 1 in C1 for Oksana: true
+2025-11-02 21:37:58 - [Train Elektrichka-101] Journey started: Kyiv -> Brovary
+2025-11-02 21:37:58 - [Train Elektrichka-101] Moving from Kyiv to Vydubychi
+2025-11-02 21:37:58 - [Train Elektrichka-101] Journey stopped at: Vydubychi
+2025-11-02 21:37:58 - [Train Elektrichka-101] Pantograph lowered.
+2025-11-02 21:37:58 - [Train Elektrichka-101] Train shutdown: Elektrichka-101
+--- Logger closed: 2025-11-02 21:37:58
+--- Logger opened: 2025-11-03 18:32:04
+2025-11-03 18:32:05 - [Train Elektrychka-101] Train created (abstract): Elektrychka-101
+2025-11-03 18:32:05 - [Train Elektrychka-101] ElectricTrain created: Elektrychka-101, voltage=25000V
+2025-11-03 18:32:05 - [Train Elektrychka-101] Pantograph raised.
+2025-11-03 18:32:05 - [Train Elektrychka-101] Total seats calculated: 24
+2025-11-03 18:32:05 - [Train Elektrychka-101] Available seats: 24
+2025-11-03 18:32:05 - [Train Elektrychka-101] --- Manifest for Elektrychka-101 ---
+Type: Electric
+Route: Kyiv -> Brovary
+Engine: EL-Motor (power: 3200, year: 2018)
+Conductor: Petro Shevchenko (license: E-2025)
+Carriage C1: type=PASSENGER, seats=12, free=12
+  Seat 1: free
+  Seat 2: free
+  Seat 3: free
+  Seat 4: free
+  Seat 5: free
+  Seat 6: free
+  Seat 7: free
+  Seat 8: free
+  Seat 9: free
+  Seat 10: free
+  Seat 11: free
+  Seat 12: free
+
+Carriage C2: type=PASSENGER, seats=12, free=12
+  Seat 1: free
+  Seat 2: free
+  Seat 3: free
+  Seat 4: free
+  Seat 5: free
+  Seat 6: free
+  Seat 7: free
+  Seat 8: free
+  Seat 9: free
+  Seat 10: free
+  Seat 11: free
+  Seat 12: free
+
+Total seats: 24
+Available seats: 24
+
+2025-11-03 18:32:05 - [Train Elektrychka-101] Searched for seat 1 in C1: found
+2025-11-03 18:32:05 - [Train Elektrychka-101] Reserve seat 1 in C1 for Oksana: true
+2025-11-03 18:32:05 - [Train Elektrychka-101] Journey started: Kyiv -> Brovary
+2025-11-03 18:32:05 - [Train Elektrychka-101] Moving from Kyiv to Vydubychi
+2025-11-03 18:32:05 - [Train Elektrychka-101] Journey stopped at: Vydubychi
+2025-11-03 18:32:05 - [Train Elektrychka-101] Pantograph lowered.
+2025-11-03 18:32:05 - [Train Elektrychka-101] Train shutdown: Elektrychka-101
+--- Logger closed: 2025-11-03 18:32:05
+--- Logger opened: 2025-11-03 18:38:36
+2025-11-03 18:38:36 - [Train Elektrychka-101] Train created (abstract): Elektrychka-101
+2025-11-03 18:38:36 - [Train Elektrychka-101] ElectricTrain created: Elektrychka-101, voltage=25000V
+2025-11-03 18:38:36 - [Train Elektrychka-101] Pantograph raised.
+2025-11-03 18:38:36 - [Train Elektrychka-101] Total seats calculated: 24
+2025-11-03 18:38:36 - [Train Elektrychka-101] Available seats: 24
+2025-11-03 18:38:36 - [Train Elektrychka-101] --- Manifest for Elektrychka-101 ---
+Type: Electric
+Route: Lviv -> Khmelnytskyi
+Engine: EL-Motor (power: 3200, year: 2018)
+Conductor: Petro Shevchenko (license: E-2025)
+Carriage C1: type=PASSENGER, seats=12, free=12
+  Seat 1: free
+  Seat 2: free
+  Seat 3: free
+  Seat 4: free
+  Seat 5: free
+  Seat 6: free
+  Seat 7: free
+  Seat 8: free
+  Seat 9: free
+  Seat 10: free
+  Seat 11: free
+  Seat 12: free
+
+Carriage C2: type=PASSENGER, seats=12, free=12
+  Seat 1: free
+  Seat 2: free
+  Seat 3: free
+  Seat 4: free
+  Seat 5: free
+  Seat 6: free
+  Seat 7: free
+  Seat 8: free
+  Seat 9: free
+  Seat 10: free
+  Seat 11: free
+  Seat 12: free
+
+Total seats: 24
+Available seats: 24
+
+2025-11-03 18:38:36 - [Train Elektrychka-101] Searched for seat 1 in C1: found
+2025-11-03 18:38:36 - [Train Elektrychka-101] Reserve seat 1 in C1 for Oksana: true
+2025-11-03 18:38:36 - [Train Elektrychka-101] Journey started: Lviv -> Khmelnytskyi
+2025-11-03 18:38:36 - [Train Elektrychka-101] Moving from Lviv to Ternopil
+2025-11-03 18:38:36 - [Train Elektrychka-101] Journey stopped at: Ternopil
+2025-11-03 18:38:36 - [Train Elektrychka-101] Pantograph lowered.
+2025-11-03 18:38:36 - [Train Elektrychka-101] Train shutdown: Elektrychka-101
+--- Logger closed: 2025-11-03 18:38:36
+--- Logger opened: 2025-12-03 20:48:35
+2025-12-03 20:48:35 - [Train Elektrychka-101] Train created (abstract): Elektrychka-101
+2025-12-03 20:48:35 - [Train Elektrychka-101] ElectricTrain created: Elektrychka-101, voltage=25000V
+2025-12-03 20:48:35 - [Train Elektrychka-101] Pantograph raised.
+2025-12-03 20:48:35 - [Train Elektrychka-101] Total seats calculated: 24
+2025-12-03 20:48:35 - [Train Elektrychka-101] Available seats: 24
+2025-12-03 20:48:35 - [Train Elektrychka-101] --- Manifest for Elektrychka-101 ---
+Type: Electric
+Route: Lviv -> Khmelnytskyi
+Engine: EL-Motor (power: 3200, year: 2018)
+Conductor: Petro Shevchenko (license: E-2025)
+Carriage C1: type=PASSENGER, seats=12, free=12
+  Seat 1: free
+  Seat 2: free
+  Seat 3: free
+  Seat 4: free
+  Seat 5: free
+  Seat 6: free
+  Seat 7: free
+  Seat 8: free
+  Seat 9: free
+  Seat 10: free
+  Seat 11: free
+  Seat 12: free
+
+Carriage C2: type=PASSENGER, seats=12, free=12
+  Seat 1: free
+  Seat 2: free
+  Seat 3: free
+  Seat 4: free
+  Seat 5: free
+  Seat 6: free
+  Seat 7: free
+  Seat 8: free
+  Seat 9: free
+  Seat 10: free
+  Seat 11: free
+  Seat 12: free
+
+Total seats: 24
+Available seats: 24
+
+2025-12-03 20:48:35 - [Train Elektrychka-101] Searched for seat 1 in C1: found
+2025-12-03 20:48:35 - [Train Elektrychka-101] Reserve seat 1 in C1 for Oksana: true
+2025-12-03 20:48:35 - [Train Elektrychka-101] Journey started: Lviv -> Khmelnytskyi
+2025-12-03 20:48:35 - [Train Elektrychka-101] Moving from Lviv to Ternopil
+2025-12-03 20:48:35 - [Train Elektrychka-101] Journey stopped at: Ternopil
+2025-12-03 20:48:35 - [Train Elektrychka-101] Pantograph lowered.
+2025-12-03 20:48:35 - [Train Elektrychka-101] Train shutdown: Elektrychka-101
+--- Logger closed: 2025-12-03 20:48:35
+--- Logger opened: 2025-12-14 17:23:15
+2025-12-14 17:23:16 - [Train Elektrychka-101] Train created (abstract): Elektrychka-101
+2025-12-14 17:23:16 - [Train Elektrychka-101] ElectricTrain created: Elektrychka-101, voltage=25000V
+2025-12-14 17:23:16 - [Train Elektrychka-101] Pantograph raised.
+2025-12-14 17:23:16 - [Train Elektrychka-101] Total seats calculated: 24
+2025-12-14 17:23:16 - [Train Elektrychka-101] Available seats: 24
+2025-12-14 17:23:16 - [Train Elektrychka-101] --- Manifest for Elektrychka-101 ---
+Type: Electric
+Route: Lviv -> Khmelnytskyi
+Engine: EL-Motor (power: 3200, year: 2018)
+Conductor: Petro Shevchenko (license: E-2025)
+Carriage C1: type=PASSENGER, seats=12, free=12
+  Seat 1: free
+  Seat 2: free
+  Seat 3: free
+  Seat 4: free
+  Seat 5: free
+  Seat 6: free
+  Seat 7: free
+  Seat 8: free
+  Seat 9: free
+  Seat 10: free
+  Seat 11: free
+  Seat 12: free
+
+Carriage C2: type=PASSENGER, seats=12, free=12
+  Seat 1: free
+  Seat 2: free
+  Seat 3: free
+  Seat 4: free
+  Seat 5: free
+  Seat 6: free
+  Seat 7: free
+  Seat 8: free
+  Seat 9: free
+  Seat 10: free
+  Seat 11: free
+  Seat 12: free
+
+Total seats: 24
+Available seats: 24
+
+2025-12-14 17:23:16 - [Train Elektrychka-101] Searched for seat 1 in C1: found
+2025-12-14 17:23:16 - [Train Elektrychka-101] Reserve seat 1 in C1 for Oksana: true
+2025-12-14 17:23:16 - [Train Elektrychka-101] Journey started: Lviv -> Khmelnytskyi
+2025-12-14 17:23:16 - [Train Elektrychka-101] Moving from Lviv to Ternopil
+2025-12-14 17:23:16 - [Train Elektrychka-101] Journey stopped at: Ternopil
+2025-12-14 17:23:16 - [Train Elektrychka-101] Pantograph lowered.
+2025-12-14 17:23:16 - [Train Elektrychka-101] Train shutdown: Elektrychka-101
+--- Logger closed: 2025-12-14 17:23:16

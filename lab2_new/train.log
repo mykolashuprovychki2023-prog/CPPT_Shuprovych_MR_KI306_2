@@ -1,0 +1,47 @@
+
+--- Logger opened: 2025-10-31 13:41:35
+2025-10-31 13:41:35 - [Train InterCity-1] Train created via Builder: InterCity-1
+2025-10-31 13:41:35 - [Train InterCity-1] Total seats calculated: 18
+2025-10-31 13:41:35 - [Train InterCity-1] Available seats: 18
+2025-10-31 13:41:35 - [Train InterCity-1] --- Manifest for InterCity-1 --- Route: Kyiv -> Lviv Engine: Turbine-3000 (power: 5000, year: 2015) Conductor: Ivan Petrov (license: AB-1234) Carriage C1: type=PASSENGER, seats=10, free=10   Seat 1: free   Seat 2: free   Seat 3: free   Seat 4: free   Seat 5: free   Seat 6: free   Seat 7: free   Seat 8: free   Seat 9: free   Seat 10: free  Carriage C2: type=SLEEPING, seats=8, free=8   Seat 1: free   Seat 2: free   Seat 3: free   Seat 4: free   Seat 5: free   Seat 6: free   Seat 7: free   Seat 8: free  Total seats: 18 Available seats: 18 
+2025-10-31 13:41:35 - [Train InterCity-1] Added carriage: C3
+2025-10-31 13:41:35 - [Train InterCity-1] Searched for seat 3 in C1: found
+2025-10-31 13:41:35 - [Train InterCity-1] Reserve seat 3 in C1 for Alice: true
+2025-10-31 13:41:35 - [Train InterCity-1] Searched for seat 1 in C3: found
+2025-10-31 13:41:35 - [Train InterCity-1] Reserve seat 1 in C3 for Bob: true
+2025-10-31 13:41:35 - [Train InterCity-1] Total seats calculated: 30
+2025-10-31 13:41:35 - [Train InterCity-1] Journey started: Kyiv -> Lviv
+2025-10-31 13:41:35 - [Train InterCity-1] Moving from Kyiv to Zhytomyr
+2025-10-31 13:41:35 - [Train InterCity-1] Journey stopped at: Zhytomyr
+2025-10-31 13:41:35 - [Train InterCity-1] Total seats calculated: 30
+2025-10-31 13:41:35 - [Train InterCity-1] Available seats: 28
+2025-10-31 13:41:35 - [Train InterCity-1] --- Manifest for InterCity-1 --- Route: Kyiv -> Lviv Engine: Turbine-3000 (power: 5000, year: 2015) Conductor: Ivan Petrov (license: AB-1234) Carriage C1: type=PASSENGER, seats=10, free=9   Seat 1: free   Seat 2: free   Seat 3: reserved by Alice   Seat 4: free   Seat 5: free   Seat 6: free   Seat 7: free   Seat 8: free   Seat 9: free   Seat 10: free  Carriage C2: type=SLEEPING, seats=8, free=8   Seat 1: free   Seat 2: free   Seat 3: free   Seat 4: free   Seat 5: free   Seat 6: free   Seat 7: free   Seat 8: free  Carriage C3: type=PASSENGER, seats=12, free=11   Seat 1: reserved by Bob   Seat 2: free   Seat 3: free   Seat 4: free   Seat 5: free   Seat 6: free   Seat 7: free   Seat 8: free   Seat 9: free   Seat 10: free   Seat 11: free   Seat 12: free  Total seats: 30 Available seats: 28 
+2025-10-31 13:41:35 - [Train InterCity-1-copy] Train deep-copied from: InterCity-1
+2025-10-31 13:41:35 - [Train InterCity-1-copy] Total seats calculated: 30
+2025-10-31 13:41:35 - [Train InterCity-1-copy] Available seats: 28
+2025-10-31 13:41:35 - [Train InterCity-1-copy] --- Manifest for InterCity-1-copy --- Route: Kyiv -> Lviv Engine: Turbine-3000 (power: 5000, year: 2015) Conductor: Ivan Petrov (license: AB-1234) Carriage C1: type=PASSENGER, seats=10, free=9   Seat 1: free   Seat 2: free   Seat 3: reserved by Alice   Seat 4: free   Seat 5: free   Seat 6: free   Seat 7: free   Seat 8: free   Seat 9: free   Seat 10: free  Carriage C2: type=SLEEPING, seats=8, free=8   Seat 1: free   Seat 2: free   Seat 3: free   Seat 4: free   Seat 5: free   Seat 6: free   Seat 7: free   Seat 8: free  Carriage C3: type=PASSENGER, seats=12, free=11   Seat 1: reserved by Bob   Seat 2: free   Seat 3: free   Seat 4: free   Seat 5: free   Seat 6: free   Seat 7: free   Seat 8: free   Seat 9: free   Seat 10: free   Seat 11: free   Seat 12: free  Total seats: 30 Available seats: 28 
+2025-10-31 13:41:35 - [Train InterCity-1] Train shutdown: InterCity-1
+--- Logger closed: 2025-10-31 13:41:35
+--- Logger opened: 2025-10-31 13:50:57
+2025-10-31 13:50:57 - [Train InterCity-1] Train created via Builder: InterCity-1
+2025-10-31 13:50:57 - [Train InterCity-1] Total seats calculated: 18
+2025-10-31 13:50:57 - [Train InterCity-1] Available seats: 18
+2025-10-31 13:50:57 - [Train InterCity-1] --- Manifest for InterCity-1 --- Route: Kyiv -> Lviv Engine: Turbine-3000 (power: 5000, year: 2015) Conductor: Ivan Petrov (license: AB-1234) Carriage C1: type=PASSENGER, seats=10, free=10   Seat 1: free   Seat 2: free   Seat 3: free   Seat 4: free   Seat 5: free   Seat 6: free   Seat 7: free   Seat 8: free   Seat 9: free   Seat 10: free  Carriage C2: type=SLEEPING, seats=8, free=8   Seat 1: free   Seat 2: free   Seat 3: free   Seat 4: free   Seat 5: free   Seat 6: free   Seat 7: free   Seat 8: free  Total seats: 18 Available seats: 18 
+2025-10-31 13:50:57 - [Train InterCity-1] Added carriage: C3
+2025-10-31 13:50:57 - [Train InterCity-1] Searched for seat 3 in C1: found
+2025-10-31 13:50:57 - [Train InterCity-1] Reserve seat 3 in C1 for Alice: true
+2025-10-31 13:50:57 - [Train InterCity-1] Searched for seat 1 in C3: found
+2025-10-31 13:50:57 - [Train InterCity-1] Reserve seat 1 in C3 for Bob: true
+2025-10-31 13:50:57 - [Train InterCity-1] Total seats calculated: 30
+2025-10-31 13:50:57 - [Train InterCity-1] Journey started: Kyiv -> Lviv
+2025-10-31 13:50:57 - [Train InterCity-1] Moving from Kyiv to Zhytomyr
+2025-10-31 13:50:57 - [Train InterCity-1] Journey stopped at: Zhytomyr
+2025-10-31 13:50:57 - [Train InterCity-1] Total seats calculated: 30
+2025-10-31 13:50:57 - [Train InterCity-1] Available seats: 28
+2025-10-31 13:50:57 - [Train InterCity-1] --- Manifest for InterCity-1 --- Route: Kyiv -> Lviv Engine: Turbine-3000 (power: 5000, year: 2015) Conductor: Ivan Petrov (license: AB-1234) Carriage C1: type=PASSENGER, seats=10, free=9   Seat 1: free   Seat 2: free   Seat 3: reserved by Alice   Seat 4: free   Seat 5: free   Seat 6: free   Seat 7: free   Seat 8: free   Seat 9: free   Seat 10: free  Carriage C2: type=SLEEPING, seats=8, free=8   Seat 1: free   Seat 2: free   Seat 3: free   Seat 4: free   Seat 5: free   Seat 6: free   Seat 7: free   Seat 8: free  Carriage C3: type=PASSENGER, seats=12, free=11   Seat 1: reserved by Bob   Seat 2: free   Seat 3: free   Seat 4: free   Seat 5: free   Seat 6: free   Seat 7: free   Seat 8: free   Seat 9: free   Seat 10: free   Seat 11: free   Seat 12: free  Total seats: 30 Available seats: 28 
+2025-10-31 13:50:57 - [Train InterCity-1-copy] Train deep-copied from: InterCity-1
+2025-10-31 13:50:57 - [Train InterCity-1-copy] Total seats calculated: 30
+2025-10-31 13:50:57 - [Train InterCity-1-copy] Available seats: 28
+2025-10-31 13:50:57 - [Train InterCity-1-copy] --- Manifest for InterCity-1-copy --- Route: Kyiv -> Lviv Engine: Turbine-3000 (power: 5000, year: 2015) Conductor: Ivan Petrov (license: AB-1234) Carriage C1: type=PASSENGER, seats=10, free=9   Seat 1: free   Seat 2: free   Seat 3: reserved by Alice   Seat 4: free   Seat 5: free   Seat 6: free   Seat 7: free   Seat 8: free   Seat 9: free   Seat 10: free  Carriage C2: type=SLEEPING, seats=8, free=8   Seat 1: free   Seat 2: free   Seat 3: free   Seat 4: free   Seat 5: free   Seat 6: free   Seat 7: free   Seat 8: free  Carriage C3: type=PASSENGER, seats=12, free=11   Seat 1: reserved by Bob   Seat 2: free   Seat 3: free   Seat 4: free   Seat 5: free   Seat 6: free   Seat 7: free   Seat 8: free   Seat 9: free   Seat 10: free   Seat 11: free   Seat 12: free  Total seats: 30 Available seats: 28 
+2025-10-31 13:50:57 - [Train InterCity-1] Train shutdown: InterCity-1
+--- Logger closed: 2025-10-31 13:50:57
