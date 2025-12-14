@@ -1,0 +1,5 @@
+For x = 25, y = 0,0309436088
+--------------------
+For x = 15, y = 0,0429986404
+--------------------
+ERROR for x = 0: Exception reason: ctg(x) is undefined (sin(x) == 0). x = 0
